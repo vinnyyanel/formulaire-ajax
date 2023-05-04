@@ -1,0 +1,23 @@
+header{
+    text-align: center;
+    background-color: brown;
+}
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+    
+}
+
+#formulaire{
+    text-align: center;
+    background-color: antiquewhite;
+    border: double;
+    border-color: pink;
+    border-radius: 25% 10%;
+    width: 25%;
+    font-family: cursive;
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right: 50%;
+    
+}

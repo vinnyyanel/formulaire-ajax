@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+    background-color: rgb(245, 215, 215);
+}
+body{
+   
+    text-align: center;
+    background-image: url("teste.png");
+    
+}
+
+#formulaire{
+    text-align: center;
+    background-color: antiquewhite;
+    border: double;
+    border-color: pink;
+    border-radius: 25% 10%;
+    width: 25%;
+    font-family: cursive;
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right: 50%;
+    
+}
+footer{
+    text-align: center;
+    background-color: rgb(131, 120, 107);
+
+}
